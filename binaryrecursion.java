@@ -1,6 +1,6 @@
 package extra;
 import java.util.Arrays;
-public class BinarySearchRecursionMidterm {
+public class BinarySearchRecursion {
 
 	public static void main(String[] args) {
 		int[] array = {11, 21, 33, 40, 50}; //list the original array 
